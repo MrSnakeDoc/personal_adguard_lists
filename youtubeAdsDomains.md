@@ -16,4 +16,5 @@
 !||rr4---sn-cv0tb0xn-jqb6.googlevideo.com^
 !||rr4---sn-25ge7nz6.googlevideo.com^
 !||rr5---sn-25ge7nzs.googlevideo.com^
-||/^rr\d+---sn-[a-z0-9\-]+\.googlevideo\.com^/
+!||/^rr\d+---sn-[a-z0-9\-]+\.googlevideo\.com^/
+||/^https?:\/\/rr\d+---sn-[a-z0-9\-]+\.googlevideo\.com\//$domain=www.googlevideo.com
