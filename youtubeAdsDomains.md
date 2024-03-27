@@ -1,7 +1,7 @@
-||youtube.com/api/stats*^$important
-||youtube.com/pagead/adview*^$important
-||youtube.com/api/stats/ads*^$important
-||youtube.com/ptracking*^$important
+||https://youtube.com/api/stats*^$important
+||https://youtube.com/api/stats/ads*^$important
+||https://youtube.com/pagead/adview*^$important
+||https://youtube.com/ptracking*^$important
 ||rr4---sn-cv0tb0xn-jqb6.googlevideo.com^$important
 ||rr5---sn-25ge7nzs.googlevideo.com^$important
 ||rr3---sn-cv0tb0xn-jqb6.googlevideo.com^$important
@@ -9,3 +9,5 @@
 ||rr3---sn-25ge7nzr.googlevideo.com^$important
 ||rr3---sn-cv0tb0xn-jqbd.googlevideo.com^$important
 ||rr3---sn-25glenl6.googlevideo.com^$important
+||rr2---sn-cv0tb0xn-jqbd.googlevideo.com^$important
+||rr1---sn-25ge7nzr.googlevideo.com^$important
