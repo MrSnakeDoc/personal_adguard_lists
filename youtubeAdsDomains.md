@@ -1,8 +1,9 @@
-||youtube.com/api/stats
-||youtube.com/api/stats/ads
-||youtube.com/pagead/adview
-||youtube.com/ptracking
-||play.google.com/log
+||https://www.youtube.com/api/stats
+||https://www.youtube.com/api/stats/ads
+||https://www.youtube.com/pagead/adview
+||https://www.youtube.com/ptracking
+||https://www.youtube.com/youtubei/v1/log_even
+||https://www.play.google.com/log
 ||rr4---sn-cv0tb0xn-jqb6.googlevideo.com
 ||rr5---sn-25ge7nzs.googlevideo.com
 ||rr3---sn-cv0tb0xn-jqb6.googlevideo.com
@@ -12,3 +13,4 @@
 ||rr3---sn-25glenl6.googlevideo.com
 ||rr2---sn-cv0tb0xn-jqbd.googlevideo.com
 ||rr1---sn-25ge7nzr.googlevideo.com
+||rr4---sn-25ge7nz6.googlevideo.com
