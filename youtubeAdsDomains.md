@@ -1,9 +1,10 @@
-||https://www.youtube.com/api/stats
-||https://www.youtube.com/api/stats/ads
-||https://www.youtube.com/pagead/adview
-||https://www.youtube.com/ptracking
-||https://www.youtube.com/youtubei/v1/log_even
-||https://www.play.google.com/log
+||www.youtube.com/api/stats$domain=www.youtube.com,important
+||www.youtube.com/api/stats/watchtime$domain=www.youtube.com,important
+||www.youtube.com/api/stats/ads$domain=www.youtube.com,important
+||www.youtube.com/pagead/adview$domain=www.youtube.com,important
+||www.youtube.com/ptracking$domain=www.youtube.com,important
+||www.youtube.com/youtubei/v1/log_even$domain=www.youtube.com,important
+||www.play.google.com/log$domain=www.google.com,important
 ||rr4---sn-cv0tb0xn-jqb6.googlevideo.com
 ||rr5---sn-25ge7nzs.googlevideo.com
 ||rr3---sn-cv0tb0xn-jqb6.googlevideo.com
