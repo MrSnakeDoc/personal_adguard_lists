@@ -1,3 +1,13 @@
+||youtube.com/youtubei/v1/log_event?
+||google.com/log?$xhr,redirect-rule=noop.txt
+||play.google.com/log
+||google.com/gen_204?
+||doubleclick.net^$xhr,redirect-rule=noop.txt
+||doubleclick.net^
+||youtube.com/api/stats/atr?
+||youtube.com/api/stats/qoe?
+||youtube.com/api/stats/watchtime?
+||rr1---sn-cv0tb0xn-jqbd.googlevideo.com^
 ||r1---sn-cvh7knez.googlevideo.com^
 ||r2---sn-cvh7knez.googlevideo.com^
 ||r3---sn-cvh7knez.googlevideo.com^
